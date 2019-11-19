@@ -46,6 +46,8 @@ a. what frame did you capture?
 b. what does the I2C write function do when there is nothing connected?
 
 c. Is there a difference in what you capture if you write a number to one of the internal device addresses?
+
+
 2. Write a short program to read a number from the I2C devices on the micro:bit. For each device:
 
  a. three addresses:
