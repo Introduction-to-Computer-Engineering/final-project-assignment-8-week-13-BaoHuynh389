@@ -50,7 +50,8 @@ c. Is there a difference in what you capture if you write a number to one of the
 
 2. Write a short program to read a number from the I2C devices on the micro:bit. For each device:
 
- a. three addresses:
+ a. arbitrary addresses:
+ a. internal address: 
  
  b. sign
  b. unsign:
