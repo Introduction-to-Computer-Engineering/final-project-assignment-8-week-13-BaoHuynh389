@@ -10,22 +10,24 @@
  ## Part 2: Visualize simple continuous signals:
    i:Visualize the following signals, using the Auto regime and default settings (trigger on a rising edge on CH1). For each signal, take a video of the setup (the source wire and connection of the oscilloscope probe) and the display of the oscilloscope, while varying one of the signal properties (wave shape, frequency, amplitude) using the controls of the source. *(LINK FILES)
    
-a. Out:videolink:https://imgur.com/gallery/jajNZaW, code link[OUT.js](OUT.js)
+a. Out:
+1.videolink:https://imgur.com/gallery/jajNZaW
+2.code link[OUT.js](OUT.js)
 
 b. standalone Rigol function generator: 
-video link: https://imgur.com/gallery/uSdJl33
+1.video link: https://imgur.com/gallery/uSdJl33
 
 c. PWM:
-video link:
-code link:
+1.video link: https://imgur.com/gallery/rZBdRUE
+2.code link:[PWM pulses.js](PWM pulses.js)
 
 d. PWM 5%:
-video link:
-code link:
+1.video link: https://imgur.com/gallery/OQwcaUQ
+2.code link:[PWM pulses-5%.js](PWM pulses-5%.js)
 
-   ii: demo video
-   video link:
-   code link:
+   ii: other servo function, using the oscilloscope
+ 1.video link: https://imgur.com/gallery/AF6RdlW
+ 2.code link:[servo.js](servo.js)
    
  ## Part 3: I2C warmup:
 1. Read the SparkFun I2C tutorial.
