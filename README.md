@@ -69,16 +69,15 @@ d. What values do you read?
 e. Can you get different values by moving the micro:bit around.
 
 # Files:
-1.  Program to read a number from the I2C devices on the micro:bit (acclometer)
+1. Code link of a program to read a number from the I2C devices on the micro:bit (acclometer, sign byte integers):
+[readi2c_accelerometer_signed.js](readi2c_accelerometer_signed.js)
+2. Image link of a program to read a number from the I2C devices on the micro:bit (acclometer, sign byte integers)
+3. Video link of a program to read a number from the I2C devices on the micro:bit (acclometer, sign byte integers)
 
- a. acclometer, sign byte integers:
-   i. code link:
-   ii. video link:
-   iii. image link:
- b. acclometer, unsigned byte integers:
-  i. code link:
-  ii. video link:
-  iii. image link:
+4. Code link of a program to read a number from the I2C devices on the micro:bit (acclometer, unsign byte integers)
+5. Image link of a program to read a number from the I2C devices on the micro:bit (acclometer, unsign byte integers)
+6. Video link of a program to read a number from the I2C devices on the micro:bit (acclometer, unsign byte integers)
 
-2.  Program to read a number from the I2C devices on the micro:bit (magnetometer)
+
+.  Program to read a number from the I2C devices on the micro:bit (magnetometer)
 
