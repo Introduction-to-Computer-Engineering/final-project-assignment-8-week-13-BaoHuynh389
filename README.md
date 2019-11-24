@@ -60,8 +60,22 @@ c. Is there a difference in what you capture if you write a number to one of the
  2. photo set-up link: https://imgur.com/gallery/o7Vy8VS
  3. photo oscilloscope link: https://imgur.com/gallery/El8rFZv
 
-
 2. Write a short program to read a number from the I2C devices on the micro:bit. For each device:
+
+a. Try all three addresses. (Bonus for a cogent argument about why there are three.)
+
+b. Try signed and unsigned single bype integers.
+
+c. Scroll the values on the LED matrix.
+
+d. What values do you read?
+
+e. Can you get different values by moving the micro:bit around.
+
+
+
+
+
 
 
 
