@@ -76,13 +76,34 @@ e. Can you get different values by moving the micro:bit around.
 https://imgur.com/gallery/B8GZNfG
 
 3. Video link of a program to read a number from the I2C devices on the micro:bit (acclometer, sign byte integers):
-
+https://imgur.com/gallery/0cEyQ3b
 
 4. Code link of a program to read a number from the I2C devices on the micro:bit (acclometer, unsign byte integers):
 [readi2c_accelerometer_unsigned](readi2c_accelerometer_unsigned)
-5. Image link of a program to read a number from the I2C devices on the micro:bit (acclometer, unsign byte integers)
-6. Video link of a program to read a number from the I2C devices on the micro:bit (acclometer, unsign byte integers)
+
+5. Image link of a program to read a number from the I2C devices on the micro:bit (acclometer, unsign byte integers):
+https://imgur.com/gallery/wHw9cy9
+
+6. Video link of a program to read a number from the I2C devices on the micro:bit (acclometer, unsign byte integers):
+https://imgur.com/gallery/lvFoLDt
 
 
-.  Program to read a number from the I2C devices on the micro:bit (magnetometer)
+7. Code link of a program to read a number from the I2C devices on the micro:bit (magnetometer, sign byte integers):
+[readi2c_magnetometer_signed.js ](readi2c_magnetometer_signed.js)
+
+8. Image link of a program to read a number from the I2C devices on the micro:bit (magnetometer, sign byte integers):
+https://imgur.com/gallery/MR9a3AJ
+
+9. Video link of a program to read a number from the I2C devices on the micro:bit (magnetometer, sign byte integers):
+https://imgur.com/gallery/Itjb8w2
+
+10. Code link of a program to read a number from the I2C devices on the micro:bit (magnetometer, unsign byte integers):
+[readi2c_magnetometer_unsign .js](readi2c_magnetometer_unsign .js)
+
+11. Image link of a program to read a number from the I2C devices on the micro:bit (magnetometer, unsign byte integers):
+https://imgur.com/gallery/ARu55PG
+
+12. Video link of a program to read a number from the I2C devices on the micro:bit (magnetometer, unsign byte integers):
+https://imgur.com/gallery/IIDuARU
+
 
