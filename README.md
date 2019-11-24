@@ -10,7 +10,7 @@
  ## Part 2: Visualize simple continuous signals:
    i:Visualize the following signals, using the Auto regime and default settings (trigger on a rising edge on CH1). For each signal, take a video of the setup (the source wire and connection of the oscilloscope probe) and the display of the oscilloscope, while varying one of the signal properties (wave shape, frequency, amplitude) using the controls of the source. *(LINK FILES)
    
-a. Out:
+a. Out:[link:https://imgur.com/gallery/jajNZaW]
 
 b. standalone Rigol function generator:
 
@@ -50,15 +50,5 @@ c. Is there a difference in what you capture if you write a number to one of the
 
 2. Write a short program to read a number from the I2C devices on the micro:bit. For each device:
 
- a. arbitrary addresses:
- a. internal address: 
- 
- b. sign
- b. unsign:
- 
- c. LED MATRIX:
- 
- d. read value:
- 
- e. diff value
+
 
