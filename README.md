@@ -12,13 +12,20 @@
    
 a. Out:videolink:https://imgur.com/gallery/jajNZaW, code link[OUT.js](OUT.js)
 
-b. standalone Rigol function generator:
+b. standalone Rigol function generator: 
+video link: https://imgur.com/gallery/uSdJl33
 
 c. PWM:
+video link:
+code link:
 
 d. PWM 5%:
- 
+video link:
+code link:
+
    ii: demo video
+   video link:
+   code link:
    
  ## Part 3: I2C warmup:
 1. Read the SparkFun I2C tutorial.
