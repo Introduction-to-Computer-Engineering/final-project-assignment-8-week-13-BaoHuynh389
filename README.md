@@ -19,11 +19,11 @@ b. standalone Rigol function generator:
 
 c. PWM:
 1. video link: https://imgur.com/gallery/rZBdRUE
-2. code link:[PWM-pulses.js](PWM pulses.js)
+2. code link:[PWM-pulses.js](PWM-pulses.js)
 
 d. PWM 5%:
 1. video link: https://imgur.com/gallery/OQwcaUQ
-2. code link:[PWM-pulses-5%.js](PWM pulses-5%.js)
+2. code link:[PWM-pulses-5%.js](PWM-pulses-5%.js)
 
    ii: other servo function, using the oscilloscope
  1. video link: https://imgur.com/gallery/AF6RdlW
