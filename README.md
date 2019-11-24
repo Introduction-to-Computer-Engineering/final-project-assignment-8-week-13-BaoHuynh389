@@ -8,7 +8,7 @@
 3. The oscilloscope shows continuous varying signals that it detects at the tips of its probes. The 
          
  ## Part 2: Visualize simple continuous signals:
-   # i: Visualize the following signals, using the Auto regime and default settings (trigger on a rising edge on CH1). For each signal, take a video of the setup (the source wire and connection of the oscilloscope probe) and the display of the oscilloscope, while varying one of the signal properties (wave shape, frequency, amplitude) using the controls of the source. *(LINK FILES)
+    i: Visualize the following signals, using the Auto regime and default settings (trigger on a rising edge on CH1). For each signal, take a video of the setup (the source wire and connection of the oscilloscope probe) and the display of the oscilloscope, while varying one of the signal properties (wave shape, frequency, amplitude) using the controls of the source. *(LINK FILES)
    
 a. Out:
   1. videolink:https://imgur.com/gallery/jajNZaW
@@ -25,7 +25,7 @@ d. PWM 5%:
 1. video link: https://imgur.com/gallery/OQwcaUQ
 2. code link:[PWM pulses-5%.js](PWM pulses-5%.js)
 
-   # ii: other servo function, using the oscilloscope
+    ii: other servo function, using the oscilloscope
  1. video link: https://imgur.com/gallery/AF6RdlW
  2. code link:[servo.js](servo.js)
    
@@ -55,6 +55,10 @@ a. what frame did you capture?
 b. what does the I2C write function do when there is nothing connected?
 
 c. Is there a difference in what you capture if you write a number to one of the internal device addresses?
+
+. code link (write i2c): [write-I2C.js ](write-I2C.js)
+. photo set-up link: https://imgur.com/gallery/o7Vy8VS
+. photo oscilloscope link: https://imgur.com/gallery/El8rFZv
 
 
 2. Write a short program to read a number from the I2C devices on the micro:bit. For each device:
