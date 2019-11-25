@@ -22,7 +22,7 @@ The file [criteria.md](criteria.md) contains the criteria for passing.
 
 3. The oscilloscope shows continuous varying signals that it detects at the tips of its probes. The 
          
- ## Part 2: Visualize simple continuous signals:
+ ## Part 2: Visualize output of built-in function generator:
    i: Visualize the following signals, using the Auto regime and default settings (trigger on a rising edge on CH1). For each signal, take a video of the setup (the source wire and connection of the oscilloscope probe) and the display of the oscilloscope, while varying one of the signal properties (wave shape, frequency, amplitude) using the controls of the source. *(LINK FILES)
    
 a. Out: The video shows the configured the OUT of the built-in function generator on the workstation connected to the oscilloscope.
@@ -45,7 +45,7 @@ d. PWM 5%:  video of that shows a program that sends PWM pusles with the period 
  1. video link: https://imgur.com/gallery/AF6RdlW
  2. code link:[servo.js](servo.js)
    
- ## Part 3: I2C warmup:
+ ## Part 3: I2C warmup:(Answer the following questions)
 1. Read the SparkFun I2C tutorial.
 
 2. Question:
@@ -68,7 +68,7 @@ f.(Advanced) If the micro:bit is configured by default as a master, and two micr
 - Both of microbits are configured to be masterst. when the programmer dont want to go deep into the operating system, having 2 masters will not work.
 
     
- ## Part 4: FIRST STEP WITH I2C
+ ## Part 4: Capture an I2C frame from the micro:bit
  
 1.  Configure the micro:bit to write a number to some arbitrary I2C address. The address can be arbitrary. Capture an I2C frame on the oscilloscope. 
 
