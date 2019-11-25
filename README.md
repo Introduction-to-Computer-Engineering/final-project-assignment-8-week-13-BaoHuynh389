@@ -122,7 +122,7 @@ https://imgur.com/gallery/B8GZNfG
 https://imgur.com/gallery/0cEyQ3b
 
 4. Code link of a program to read a number from the I2C devices on the micro:bit (acclometer, unsign byte integers):
-[readi2c_accelerometer_unsigned](readi2c_accelerometer_unsigned)
+[readi2c_accelerometer_unsigned.js](readi2c_accelerometer_unsigned.js)
 
 5. Image link of a program to read a number from the I2C devices on the micro:bit (acclometer, unsign byte integers):
 https://imgur.com/gallery/wHw9cy9
@@ -141,7 +141,8 @@ https://imgur.com/gallery/MR9a3AJ
 https://imgur.com/gallery/Itjb8w2
 
 10. Code link of a program to read a number from the I2C devices on the micro:bit (magnetometer, unsign byte integers):
-[readi2c_magnetometer_unsign.js](readi2c_magnetometer_unsign.js)
+[readi2c_magnetometer_unsign .js](readi2c_magnetometer_unsign .js)
+
 11. Image link of a program to read a number from the I2C devices on the micro:bit (magnetometer, unsign byte integers):
 https://imgur.com/gallery/ARu55PG
 
