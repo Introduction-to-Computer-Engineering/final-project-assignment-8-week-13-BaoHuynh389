@@ -74,12 +74,26 @@ c. Is there a difference in what you capture if you write a number to one of the
 Requirement:
 
 a. Try all three addresses. (Bonus for a cogent argument about why there are three.)
-- There is actually only one address, and the 0x33 and 0x32 are added at the end to either write to that address (0x32 is added to the end of 0x19 in binary) or to read to that address (0x33 is added to the end of 0x19 in binary). If reading or writing to any other address, it will not have a data frame. There are two video above that demonstrate the difference between writing to the internal address and the either 0x32 or 0x33. In the code I first wrote to 0x19, then wrote to one of the other two addresses. As the video shows, when writing to 0x19, there is a data frame, but when writing to either 0x33 or 0x32, there is only an address frame.
+- It is one address. In the code I first wrote to 0x19, then wrote to one of the other two addresses 0x32, 0x33. As the video shows, when writing to 0x19, there is a data frame, but when writing to either 0x33 or 0x32, there is only an address frame.
 
 b. Try signed and unsigned single bype integers.
+- As seen by the pictures and the videos, the signal was the simliar for signed and unsigned numbers for both (acclometer) and (magnetometer). It did not matter because there was no visible change for signed and unsigned numbers.
+
 c. Scroll the values on the LED matrix.
+- these two video describe how to scroll the values on the LED matrix when reading the accelerometer address and showing the numbers on the led display (sign and usign)
+https://imgur.com/gallery/0cEyQ3b
+https://imgur.com/gallery/lvFoLDt
+
+- these two video describe how to scroll the values on the LED matrix when reading the magnetometer address and showing the numbers on the led display (sign and usign)
+9. Video link of a program to read a number from the I2C devices on the micro:bit (magnetometer, sign byte integers):
+https://imgur.com/gallery/Itjb8w2
+https://imgur.com/gallery/IIDuARU
+
 d. What values do you read?
+- When reading the accelerometer with signed numbers, it read -128. When reading the accelerometer with unsigned numbers, it read 128. When reading the magnetometer, it displayed a lot of different numbers that constantly changed.
+
 e. Can you get different values by moving the micro:bit around.
+- When reading from the accelerometer, the value of -128 or 128 did not change when the microbit was moved. However, when reading from the magnetometer, moving the microbit did change. This makes sense because the magnetometer is what we would use to make a compass. It reacts to changes in magnetic feilds. As this project took place in the lab, there were plenty of magnetic feilds for it to pick up on.
 
 # Files:
 1. Code link of a program to read a number from the I2C devices on the micro:bit (acclometer, sign byte integers):
